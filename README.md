@@ -2,6 +2,8 @@
 
 Welcome to TinDog - where your dog's social life begins!
 
+**Live Demo**: [TinDog Live](https://fahadibnatuhin.github.io/TINDOG/)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -28,7 +30,7 @@ Find the love of your dog's life or get your money back. TinDog is committed to 
 
 ## Testimonials
 > "I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof."  
-> - Pebbles, New York
+> - Dhaka, Bangladesh
 
 ![Pebbles](./images/dog-img.jpg)
 
